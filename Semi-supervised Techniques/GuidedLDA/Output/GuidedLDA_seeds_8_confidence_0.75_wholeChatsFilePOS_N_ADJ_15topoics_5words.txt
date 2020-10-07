@@ -1,0 +1,17 @@
+File: GuidedLDA_seeds_8_confidence_0.75_wholeChatsFilePOS_N_ADJ_15topoics_5words.txt
+
+book loan interlibrary request link
+book today hour open time
+book floor number call desk
+room computer desk medium study
+journal search article book review
+article database search access journal
+access link campus article database
+research librarian article source topic
+printer print color copy student
+question good book class course
+citation good question music book
+book author title article link
+collection special school email iowa
+book student place search paper
+book search link reserve bar

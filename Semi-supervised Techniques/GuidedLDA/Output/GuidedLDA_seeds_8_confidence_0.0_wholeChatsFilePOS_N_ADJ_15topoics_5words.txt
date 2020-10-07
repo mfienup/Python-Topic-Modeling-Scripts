@@ -1,0 +1,17 @@
+File: GuidedLDA_seeds_8_confidence_0.0_wholeChatsFilePOS_N_ADJ_15topoics_5words.txt
+
+book number floor desk today
+book link click floor account
+book article title review loan
+article journal access link full
+open today hour number medium
+computer student link campus free
+research article librarian topic good
+article access link database campus
+room floor desk study today
+book email collection today librarian
+article search database topic research
+book loan interlibrary student email
+article search source topic research
+research citation librarian question paper
+article access link journal database

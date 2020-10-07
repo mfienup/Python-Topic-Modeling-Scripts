@@ -1,0 +1,152 @@
+File: raw_TFIDF_pLSA_onlyQuestionsFile_NMF-model_Kullbac-Leibler_15topoics_8words.txt
+
+Topic #0: book called childrens section class hold stack amp
+ book (9.71695668626159)
+ called (0.41550156638181573)
+ childrens (0.3716758388921452)
+ section (0.2926547272112138)
+ class (0.24455225917703757)
+ hold (0.24013103581807682)
+ stack (0.2245240532067772)
+ amp (0.19681231613569677)
+
+Topic #1: article read google text scholarly locate scholar education
+ article (7.994327678482296)
+ read (0.3430684300293125)
+ google (0.3142605675226724)
+ text (0.2775707853622674)
+ scholarly (0.25440065280883983)
+ locate (0.24157268006257038)
+ scholar (0.23566999789884463)
+ education (0.21993081371278375)
+
+Topic #2: room reserve study floor people professor group course
+ room (1.876215552457836)
+ reserve (1.570464856847874)
+ study (1.1441730880951535)
+ floor (0.9270157909221403)
+ people (0.42657727853372573)
+ professor (0.40340769628963075)
+ group (0.3794189296107651)
+ course (0.3054275646810174)
+
+Topic #3: online renew access material movie password click campus
+ online (4.045352318756919)
+ renew (1.6776663138509929)
+ access (0.858226215220009)
+ material (0.38591326109764457)
+ movie (0.34530530684306837)
+ password (0.29310937764902434)
+ click (0.2799829675038307)
+ campus (0.20534763265675982)
+
+Topic #4: student database resource school iowa graduate college program
+ student (1.6067598133547627)
+ database (1.1270376462160154)
+ resource (0.45623830749166533)
+ school (0.4477093219020177)
+ iowa (0.3777683725860744)
+ graduate (0.3325578748817914)
+ college (0.302868998205572)
+ program (0.27822989899988626)
+
+Topic #5: research citation cite apa project best specific topic
+ research (2.057064731801971)
+ citation (0.49167435233294904)
+ cite (0.4690544412179824)
+ apa (0.4533146023942044)
+ project (0.4303036837064742)
+ best (0.4265450766125152)
+ specific (0.36443012277846804)
+ topic (0.3496372017895327)
+
+Topic #6: check question laptop camera quick rent video charger
+ check (3.534631500845452)
+ question (2.0764309554588443)
+ laptop (0.7688560812340036)
+ camera (0.5900755745976166)
+ quick (0.4378104027148009)
+ rent (0.3984628597489605)
+ video (0.38809983256065517)
+ charger (0.3577204602027244)
+
+Topic #7: paper class finding source good research time writing
+ paper (2.052146215954045)
+ class (1.8792478611055805)
+ finding (1.5618006640263093)
+ source (0.9355725827883498)
+ good (0.8875147934655292)
+ research (0.6518212484973172)
+ time (0.44450063970854936)
+ writing (0.38794155808353703)
+
+Topic #8: today open hour time hey guy email tomorrow
+ today (1.2945043961704608)
+ open (1.1710814401414866)
+ hour (1.1562587427997604)
+ time (0.8728924457322353)
+ hey (0.7945356741516819)
+ guy (0.7923079463868102)
+ email (0.5502686106209705)
+ tomorrow (0.3782673371808854)
+
+Topic #9: search peer reviewed website collection review number study
+ search (2.4388272985326833)
+ peer (1.557554966821698)
+ reviewed (1.0457164626576998)
+ website (0.9525460020303743)
+ collection (0.8518010568207198)
+ review (0.6001337424861755)
+ number (0.5869697644898431)
+ study (0.4093869786362509)
+
+Topic #10: print copy link download printer color place work
+ print (1.324171091201726)
+ copy (0.9283434702763654)
+ link (0.6025205189873539)
+ download (0.568622142170884)
+ printer (0.5194927634339497)
+ color (0.47227041666146624)
+ place (0.47061778601694015)
+ work (0.45582518855125537)
+
+Topic #11: access computer campus student class lab software borrowed
+ access (4.612963219765374)
+ computer (1.7987865851417142)
+ campus (0.8343679422723568)
+ student (0.4291637880960716)
+ class (0.2469591153268465)
+ lab (0.21448302331962693)
+ software (0.18312529253038337)
+ borrowed (0.17606345199761672)
+
+Topic #12: doe request loan interlibrary pick long desk textbook
+ doe (2.679387674067031)
+ request (1.4309696891081656)
+ loan (1.2392462416943675)
+ interlibrary (0.869126404570603)
+ pick (0.50531966876371)
+ long (0.45193794468975595)
+ desk (0.3881114380407343)
+ textbook (0.2760378405718527)
+
+Topic #13: chat checked disconnected database website account lost author
+ chat (1.3391222778932053)
+ checked (0.9809768060703713)
+ disconnected (0.9527571625851973)
+ database (0.6437484895564656)
+ website (0.5475141105697713)
+ account (0.5310863472805332)
+ lost (0.4615046748785575)
+ author (0.4425262873584697)
+
+Topic #14: journal finding located american history trouble issue scholarly
+ journal (2.6613961473856578)
+ finding (0.7794117416541143)
+ located (0.43713533986075825)
+ american (0.3355095199439678)
+ history (0.30534632334516093)
+ trouble (0.29610621861767467)
+ issue (0.27003699394295944)
+ scholarly (0.2544681353265699)
+

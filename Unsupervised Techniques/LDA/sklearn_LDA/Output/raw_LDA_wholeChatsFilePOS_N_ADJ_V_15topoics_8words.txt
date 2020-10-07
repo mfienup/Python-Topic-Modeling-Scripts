@@ -1,0 +1,152 @@
+File: raw_LDA_wholeChatsFilePOS_N_ADJ_V_15topoics_8words.txt
+
+Topic #0: article search journal database link review result type
+ article (5047.780034643187)
+ search (4186.33194025464)
+ journal (1778.5966298397116)
+ database (1624.3213968887735)
+ link (976.0674053423727)
+ review (888.5551711494581)
+ result (756.9151645196143)
+ type (682.7663145665528)
+
+Topic #1: student book check renew today class course item
+ student (1212.88278825947)
+ book (885.0397570400896)
+ check (810.8218249536045)
+ renew (736.1651329990857)
+ today (307.62045234433685)
+ class (300.22370844811064)
+ course (297.16207987387554)
+ item (292.17186952985975)
+
+Topic #2: email contact today good open chat hour work
+ email (1415.6002351864622)
+ contact (997.9863354975042)
+ today (805.9420151646747)
+ good (774.5900746970657)
+ open (774.0467458057592)
+ chat (511.8840458515366)
+ hour (475.16367769028693)
+ work (450.96379703727524)
+
+Topic #3: research librarian paper topic source appointment good set
+ research (1859.437339984278)
+ librarian (1247.6471443861428)
+ paper (742.0925624696213)
+ topic (573.6953506306145)
+ source (459.0459170521698)
+ appointment (403.09031753451467)
+ good (353.54226900790417)
+ set (344.6003934365817)
+
+Topic #4: desk check floor laptop circulation main tech dissertation
+ desk (1267.56876349602)
+ check (955.7692324782714)
+ floor (563.9036237746875)
+ laptop (375.0283321137292)
+ circulation (327.2681274827836)
+ main (275.1997733010771)
+ tech (269.5045150920038)
+ dissertation (255.73071198408928)
+
+Topic #5: article print file attach pdf link access work
+ article (1679.0718289776926)
+ print (796.7692492432087)
+ file (796.4504637790463)
+ attach (733.1829718678132)
+ pdf (519.4089542343336)
+ link (490.2822589137561)
+ access (468.00855877063725)
+ work (404.3758037183962)
+
+Topic #6: room reserve study map group scheduler reservation space
+ room (1237.7122327137681)
+ reserve (1084.39816634085)
+ study (420.4819804543601)
+ map (152.00759005061778)
+ group (149.46874715409822)
+ scheduler (147.21652994886932)
+ reservation (136.39903039410365)
+ space (125.5023154196752)
+
+Topic #7: answer check place collection question number floor special
+ answer (1176.0861777088578)
+ check (1130.7148765213165)
+ place (911.1548714091869)
+ collection (764.271746303224)
+ question (520.328655310256)
+ number (505.10472356459377)
+ floor (372.5528140280232)
+ special (367.6748509343164)
+
+Topic #8: author cite citation reference source periodical link apa
+ author (453.2944121030948)
+ cite (428.826101683813)
+ citation (400.45763802063783)
+ reference (236.0865001626234)
+ source (231.3254782551712)
+ periodical (215.42416478482204)
+ link (208.25714307047744)
+ apa (203.8407324301693)
+
+Topic #9: center learning test building hey hall locate learn
+ center (332.4119893147737)
+ learning (208.71074016836988)
+ test (167.69752877365767)
+ building (159.03207405478685)
+ hey (130.74051179462603)
+ hall (115.2808983234349)
+ locate (113.79650152729322)
+ learn (96.45432593962569)
+
+Topic #10: access link log campus click work sign account
+ access (1715.77757468244)
+ link (1248.1470256917328)
+ log (1156.7207021953495)
+ campus (1054.9723748518738)
+ click (734.4818103044969)
+ work (723.7804927873506)
+ sign (634.4276136535509)
+ account (479.4054417467418)
+
+Topic #11: medium digital computer hub camera angie report angela
+ medium (367.84429794361955)
+ digital (298.8655632461946)
+ computer (254.3351071228642)
+ hub (206.09171829816472)
+ camera (154.8922504967625)
+ angie (140.03395797669833)
+ report (134.50432880527825)
+ angela (123.46546207028766)
+
+Topic #12: book check online copy hold title catalog pick
+ book (5003.033375192631)
+ check (727.5297988307134)
+ online (704.4610051892317)
+ copy (593.2354189162247)
+ hold (494.42117052917246)
+ title (406.49612813372266)
+ catalog (277.04908263710365)
+ pick (265.63275793169487)
+
+Topic #13: university iowa school history archive year state newspaper
+ university (359.94636407617895)
+ iowa (343.37757960987466)
+ school (293.68555465346674)
+ history (266.5075358357819)
+ archive (239.25817195312575)
+ year (237.06099766726257)
+ state (235.75545677401553)
+ newspaper (221.87371982973698)
+
+Topic #14: request loan interlibrary link article access music submit
+ request (1795.7784319324364)
+ loan (1216.2958725170583)
+ interlibrary (949.2806403866077)
+ link (445.5355650976163)
+ article (340.7358954892491)
+ access (236.83810708041383)
+ music (220.97978770962249)
+ submit (200.33417366333626)
+

@@ -1,0 +1,17 @@
+File: STTM_LDA_POS_N_ADJ_15topics_5words.txt
+
+student question print printer dissertation 
+article education student school research 
+book loan interlibrary request today 
+article topic database research search 
+book floor number call desk 
+business link report management database 
+access link campus database account 
+research librarian source appointment paper 
+class reserve computer course website 
+room hour desk today open 
+collection special iowa university archive 
+email good librarian question chat 
+article access journal full link 
+book author citation title online 
+search article bar journal database 

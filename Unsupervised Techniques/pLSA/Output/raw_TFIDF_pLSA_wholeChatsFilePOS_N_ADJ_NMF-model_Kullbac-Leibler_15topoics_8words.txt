@@ -1,0 +1,152 @@
+File: raw_TFIDF_pLSA_wholeChatsFilePOS_N_ADJ_NMF-model_Kullbac-Leibler_15topoics_8words.txt
+
+Topic #0: article link access google file specific good book
+ article (6.180849596795835)
+ link (0.9038188244616955)
+ access (0.8370542307844515)
+ google (0.7608072588319866)
+ file (0.7031946014235375)
+ specific (0.6244847915277316)
+ good (0.6208145464303861)
+ book (0.5933006824226482)
+
+Topic #1: book number today online title catalog hold author
+ book (7.837862612066087)
+ number (0.6463061827280365)
+ today (0.5980292771564336)
+ online (0.3968901065062761)
+ title (0.38621993599301724)
+ catalog (0.3796682293544481)
+ hold (0.3605919075384786)
+ author (0.2950662500344486)
+
+Topic #2: room hour awesome study time check today problem
+ room (1.9508691896264567)
+ hour (1.2873736034478436)
+ awesome (1.02387226202889)
+ study (0.862775908403976)
+ time (0.8601421429478433)
+ check (0.7524086360351953)
+ today (0.7461498011265055)
+ problem (0.5957736473550893)
+
+Topic #3: good librarian class research appointment email chat contact
+ good (2.455931030358626)
+ librarian (1.8526232236488722)
+ class (1.3578116534294895)
+ research (1.0958886298108883)
+ appointment (1.0654069344366561)
+ email (0.9930618431815211)
+ chat (0.9623453210851614)
+ contact (0.7142346714357592)
+
+Topic #4: loan interlibrary request access link today doe problem
+ loan (2.0818874593715875)
+ interlibrary (1.955082759164929)
+ request (0.9880663007087155)
+ access (0.8847482197306435)
+ link (0.7789572408089604)
+ today (0.7420492862677155)
+ doe (0.631489779893229)
+ problem (0.6214469948865194)
+
+Topic #5: access link account campus online click website database
+ access (3.2516185009231857)
+ link (2.2360541724484495)
+ account (1.2214009880909527)
+ campus (1.1884307359069126)
+ online (1.061047452623027)
+ click (0.9140584948531972)
+ website (0.8491221340202192)
+ database (0.6377988280832994)
+
+Topic #6: floor campus desk main number art building fine
+ floor (3.2412106767925115)
+ campus (1.0163683143951843)
+ desk (1.001137068759901)
+ main (0.9775021791449212)
+ number (0.5535215936251437)
+ art (0.5454924250337956)
+ building (0.5182763528312402)
+ fine (0.4763753056086918)
+
+Topic #7: question best research resource reference alright paper actual
+ question (1.6631742139800003)
+ best (0.9841791439534515)
+ research (0.656541975149202)
+ resource (0.5090279946862754)
+ reference (0.47754762618753965)
+ alright (0.4746402516072726)
+ paper (0.45274238124118543)
+ actual (0.42279344708361066)
+
+Topic #8: search bar left homepage click onesearch option result
+ search (2.4727077460019187)
+ bar (2.128235664732941)
+ left (1.0268100252627124)
+ homepage (1.0003801333007836)
+ click (0.8376958675477126)
+ onesearch (0.7879547547422637)
+ option (0.7737646554314979)
+ result (0.7363876189864696)
+
+Topic #9: collection today open hour special archive pm area
+ collection (2.3715062412802466)
+ today (1.626366705056012)
+ open (1.4527910607160734)
+ hour (0.9389422066240255)
+ special (0.8125308621991428)
+ archive (0.5118646055134809)
+ pm (0.41283637576143456)
+ area (0.3989293558872447)
+
+Topic #10: desk database circulation az today checkout charger tech
+ desk (3.5001454627745283)
+ database (3.0277694045558796)
+ circulation (1.4508760358989596)
+ az (0.6944663512436916)
+ today (0.37487073649437413)
+ checkout (0.34175046139002285)
+ charger (0.33988558662287716)
+ tech (0.33085580026736366)
+
+Topic #11: journal online access copy amp physical american periodical
+ journal (2.165102083412958)
+ online (1.4166781936267085)
+ access (1.0880290297538548)
+ copy (1.0387843290111582)
+ amp (0.41653804676114753)
+ physical (0.3878655184735893)
+ american (0.36050784431099936)
+ periodical (0.2655292887119003)
+
+Topic #12: student email faculty college address question fall class
+ student (2.593342804839876)
+ email (0.7588470594374266)
+ faculty (0.559657612207866)
+ college (0.5516412336492944)
+ address (0.4909236925832989)
+ question (0.48222343606008705)
+ fall (0.46108712328051793)
+ class (0.4589754924982972)
+
+Topic #13: answer place digital medium question number hub doe
+ answer (4.062558032227081)
+ place (2.44306696645919)
+ digital (0.8406480402399497)
+ medium (0.7043899981117562)
+ question (0.4965765707223064)
+ number (0.49464935401456483)
+ hub (0.4480082688134739)
+ doe (0.4442426728942331)
+
+Topic #14: computer doe print citation color printer apa black
+ computer (1.8511497638253491)
+ doe (0.9299413333870172)
+ print (0.7026049068789685)
+ citation (0.5468149630779399)
+ color (0.5323170575792997)
+ printer (0.5159321032588714)
+ apa (0.4956945689040366)
+ black (0.4588150330608368)
+

@@ -1,0 +1,17 @@
+File: TFIDF_pLSA_wholeChatsFilePOS_N_ADJ_NMF-model_FrobeniusNorm_15topoics_5words.txt
+
+article file title scholar google
+book online number title today
+room study scheduler reservation group
+research librarian paper appointment consultation
+loan interlibrary request link illiad
+access link campus online account
+floor stack fourth main section
+collection special youth number phone
+search bar result homepage website
+open today hour pm tomorrow
+database az subject ebsco business
+journal review peer academic title
+student laptop time faculty graduate
+desk circulation tech reserve camera
+printer color computer print printing

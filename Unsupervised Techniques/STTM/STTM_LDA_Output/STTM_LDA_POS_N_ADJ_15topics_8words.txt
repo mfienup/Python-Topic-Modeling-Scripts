@@ -1,0 +1,17 @@
+File: STTM_LDA_POS_N_ADJ_15topics_8words.txt
+
+book loan interlibrary request today student item printer 
+research librarian appointment question consultation paper good place 
+librarian question citation email author good reference website 
+room desk floor study medium digital today main 
+search article bar journal database result side homepage 
+today open hour time computer laptop tomorrow week 
+article database topic research search specific good study 
+collection special email number school contact year today 
+book online reserve class copy title link edition 
+student university iowa dissertation college question campus fall 
+article access journal full link text title pdf 
+article education student school health child psychology amp 
+book floor number call collection youth stack desk 
+access link campus database account website click student 
+database source online time newspaper link good history 

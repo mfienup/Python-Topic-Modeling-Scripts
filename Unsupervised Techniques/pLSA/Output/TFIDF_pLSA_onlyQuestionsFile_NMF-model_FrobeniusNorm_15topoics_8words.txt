@@ -1,0 +1,17 @@
+File: TFIDF_pLSA_onlyQuestionsFile_NMF-model_FrobeniusNorm_15topoics_8words.txt
+
+book checked hold review reserve pick childrens class
+article finding scholarly read peerreviewed text trouble class
+room reserve study group reserved floor scheduler people
+online click textbook unable view material read number
+access database student doe link campus proquest journal
+research paper finding source class topic database trouble
+question quick citation answer hey hub medium apa
+check student laptop long camera time video charger
+today hour open time close tomorrow late doe
+peer reviewed study sociology review paper class topic
+print color laptop printer cost mobile printing station
+computer lab software personal charger microsoft download installed
+request loan interlibrary doe long pick illiad inter
+renew checked book account borrowed item today loan
+journal search website scholarly database specific review title

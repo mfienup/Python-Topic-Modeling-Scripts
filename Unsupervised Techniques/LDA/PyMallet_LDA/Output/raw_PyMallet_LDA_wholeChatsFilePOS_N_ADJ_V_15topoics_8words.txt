@@ -1,0 +1,137 @@
+File: raw_PyMallet_LDA_wholeChatsFilePOS_N_ADJ_V_15topoics_8words.txt
+
+work good problem find art link word website
+486.0	work
+450.0	good
+368.0	problem
+252.0	find
+252.0	art
+249.0	link
+205.0	word
+204.0	website
+article access journal find title online copy link
+2708.0	article
+1041.0	access
+1014.0	journal
+738.0	find
+576.0	title
+539.0	online
+375.0	copy
+268.0	link
+research find librarian topic paper source article appointment
+1478.0	research
+1253.0	find
+930.0	librarian
+803.0	topic
+662.0	paper
+432.0	source
+431.0	article
+403.0	appointment
+email contact question librarian chat student work address
+1395.0	email
+729.0	contact
+649.0	question
+640.0	librarian
+536.0	chat
+472.0	student
+425.0	work
+284.0	address
+print floor locate desk computer printer main document
+815.0	print
+620.0	floor
+393.0	locate
+314.0	desk
+250.0	computer
+249.0	printer
+238.0	main
+223.0	document
+question source answer cite citation author doe website
+564.0	question
+518.0	source
+493.0	answer
+434.0	cite
+402.0	citation
+377.0	author
+348.0	doe
+335.0	website
+room reserve check desk study computer medium floor
+1249.0	room
+1091.0	reserve
+949.0	check
+746.0	desk
+401.0	study
+345.0	computer
+328.0	medium
+278.0	floor
+article find file attach study research social data
+1318.0	article
+1127.0	find
+802.0	file
+745.0	attach
+391.0	study
+388.0	research
+264.0	social
+202.0	data
+book check renew call number online find hold
+5961.0	book
+1231.0	check
+730.0	renew
+717.0	call
+640.0	number
+516.0	online
+461.0	find
+452.0	hold
+find collection number contact special iowa university locate
+643.0	find
+574.0	collection
+501.0	number
+407.0	contact
+403.0	special
+341.0	iowa
+328.0	university
+304.0	locate
+link access log click campus work sign account
+1550.0	link
+1520.0	access
+1146.0	log
+1013.0	click
+972.0	campus
+896.0	work
+620.0	sign
+595.0	account
+search article find review result journal click type
+3867.0	search
+933.0	article
+892.0	find
+802.0	review
+655.0	result
+641.0	journal
+640.0	click
+632.0	type
+request loan interlibrary link check today doe form
+1735.0	request
+1228.0	loan
+963.0	interlibrary
+486.0	link
+307.0	check
+262.0	today
+242.0	doe
+240.0	form
+article find link full database text access online
+1742.0	article
+993.0	find
+686.0	link
+679.0	full
+630.0	database
+575.0	text
+547.0	access
+372.0	online
+check open today student time hour tomorrow week
+1188.0	check
+790.0	open
+739.0	today
+670.0	student
+611.0	time
+588.0	hour
+409.0	tomorrow
+364.0	week

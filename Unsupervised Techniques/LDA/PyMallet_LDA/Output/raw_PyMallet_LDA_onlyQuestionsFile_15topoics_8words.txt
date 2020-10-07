@@ -1,0 +1,137 @@
+File: raw_PyMallet_LDA_onlyQuestionsFile_15topoics_8words.txt
+
+article find class how peer research paper search
+575.0	article
+564.0	find
+201.0	class
+191.0	how
+191.0	peer
+183.0	research
+164.0	paper
+164.0	search
+article journal social learning education child youth reading
+221.0	article
+112.0	journal
+97.0	social
+87.0	learning
+86.0	education
+80.0	child
+77.0	youth
+74.0	reading
+article access journal find link when full text
+651.0	article
+308.0	access
+264.0	journal
+261.0	find
+232.0	link
+230.0	when
+180.0	full
+151.0	text
+who good working number professor class morning collection
+209.0	who
+167.0	good
+150.0	working
+112.0	number
+102.0	professor
+74.0	class
+74.0	morning
+70.0	collection
+student chat desk disconnected open lost week work
+311.0	student
+177.0	chat
+97.0	desk
+93.0	disconnected
+79.0	open
+77.0	lost
+74.0	week
+72.0	work
+research finding search paper article source find trouble
+422.0	research
+325.0	finding
+286.0	search
+257.0	paper
+247.0	article
+223.0	source
+168.0	find
+165.0	trouble
+iowa history database american college university dissertation state
+117.0	iowa
+100.0	history
+78.0	database
+78.0	american
+77.0	college
+74.0	university
+71.0	dissertation
+70.0	state
+print review copy how school find printer title
+206.0	print
+159.0	review
+151.0	copy
+146.0	how
+125.0	school
+71.0	find
+70.0	printer
+69.0	title
+find how where website place reference camera author
+507.0	find
+365.0	how
+329.0	where
+247.0	website
+86.0	place
+79.0	reference
+77.0	camera
+76.0	author
+what where find time hour floor people section
+419.0	what
+268.0	where
+224.0	find
+168.0	time
+134.0	hour
+120.0	floor
+94.0	people
+80.0	section
+access database online article class google doe campus
+372.0	access
+219.0	database
+135.0	online
+124.0	article
+100.0	class
+98.0	google
+96.0	doe
+93.0	campus
+book online how renew checked childrens read time
+1319.0	book
+367.0	online
+302.0	how
+242.0	renew
+167.0	checked
+94.0	childrens
+84.0	read
+69.0	time
+room reserve study how where computer group dvd
+400.0	room
+297.0	reserve
+213.0	study
+209.0	how
+121.0	where
+106.0	computer
+73.0	group
+55.0	dvd
+book how request today will loan doe email
+403.0	book
+308.0	how
+213.0	request
+185.0	today
+157.0	will
+146.0	loan
+134.0	doe
+120.0	email
+check question student laptop guy doe medium computer
+406.0	check
+267.0	question
+249.0	student
+128.0	laptop
+99.0	guy
+83.0	doe
+72.0	medium
+72.0	computer

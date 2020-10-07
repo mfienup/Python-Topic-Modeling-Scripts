@@ -1,0 +1,152 @@
+File: raw_TFIDF_pLSA_onlyQuestionsFile_NMF-model_FrobeniusNorm_15topoics_8words.txt
+
+Topic #0: book checked hold review reserve pick childrens class
+ book (7.02545551913955)
+ checked (0.309784534205412)
+ hold (0.24375766373012056)
+ review (0.2380589426521298)
+ reserve (0.21766274363912938)
+ pick (0.21352418116180188)
+ childrens (0.1969326926144826)
+ class (0.16336650106325684)
+
+Topic #1: article finding scholarly read peerreviewed text trouble class
+ article (6.705103898874511)
+ finding (0.5152762772252409)
+ scholarly (0.25984121558369516)
+ read (0.21943955046000052)
+ peerreviewed (0.17622603121537916)
+ text (0.1721057717501582)
+ trouble (0.16068882655058958)
+ class (0.1482364722816249)
+
+Topic #2: room reserve study group reserved floor scheduler people
+ room (3.4824944039272587)
+ reserve (3.0536909746536582)
+ study (1.7836510558175918)
+ group (0.2818712196707602)
+ reserved (0.24360055318773086)
+ floor (0.23804735316493977)
+ scheduler (0.19377192192576134)
+ people (0.15009438981522086)
+
+Topic #3: online click textbook unable view material read number
+ online (5.211842957861776)
+ click (0.10207362402291285)
+ textbook (0.10052322307508062)
+ unable (0.08620339088439073)
+ view (0.08079165498765745)
+ material (0.07913139026177247)
+ read (0.07517330882247794)
+ number (0.07404602539612953)
+
+Topic #4: access database student doe link campus proquest journal
+ access (5.005837588674979)
+ database (0.6710370808331017)
+ student (0.4692210101861442)
+ doe (0.3330045508613922)
+ link (0.3093228409862465)
+ campus (0.3080339977858135)
+ proquest (0.21395618316765055)
+ journal (0.21265622915733817)
+
+Topic #5: research paper finding source class topic database trouble
+ research (4.147254753799532)
+ paper (2.3986283860247717)
+ finding (1.2265747525065764)
+ source (0.8073474884966639)
+ class (0.5902352141100685)
+ topic (0.5193904985803359)
+ database (0.49242326474090553)
+ trouble (0.372382080038174)
+
+Topic #6: question quick citation answer hey hub medium apa
+ question (4.425125745038635)
+ quick (0.9957947058087904)
+ citation (0.147756989148827)
+ answer (0.10789624475552133)
+ hey (0.0866579471305411)
+ hub (0.06926601818554583)
+ medium (0.051760321135567465)
+ apa (0.050863850728145255)
+
+Topic #7: check student laptop long camera time video charger
+ check (4.843940091745526)
+ student (0.8579844964422904)
+ laptop (0.6843539463908231)
+ long (0.489859396006029)
+ camera (0.4413961683648852)
+ time (0.2986028927232885)
+ video (0.28998374807494115)
+ charger (0.2729863938943347)
+
+Topic #8: today hour open time close tomorrow late doe
+ today (3.767153740583958)
+ hour (1.6036829750734052)
+ open (1.5307380772846109)
+ time (0.5509142433965797)
+ close (0.45934834048359124)
+ tomorrow (0.3929686507312078)
+ late (0.3234419677455472)
+ doe (0.24513260360096037)
+
+Topic #9: peer reviewed study sociology review paper class topic
+ peer (2.9866218023369147)
+ reviewed (2.8120771466764243)
+ study (0.7165868973552622)
+ sociology (0.67282777128)
+ review (0.27705816733511035)
+ paper (0.13658047212679325)
+ class (0.12184486266256762)
+ topic (0.08909936486646301)
+
+Topic #10: print color laptop printer cost mobile printing station
+ print (3.5580184426207575)
+ color (1.5335161139158053)
+ laptop (0.5866479526278584)
+ printer (0.4081577036230732)
+ cost (0.31092737659214187)
+ mobile (0.2941329246696795)
+ printing (0.2580702100530396)
+ station (0.21756543979185103)
+
+Topic #11: computer lab software personal charger microsoft download installed
+ computer (3.6775650648956977)
+ lab (0.4203324787411426)
+ software (0.3660051802624838)
+ personal (0.3648824517221932)
+ charger (0.2712432288273058)
+ microsoft (0.17174266098270097)
+ download (0.17014755224123515)
+ installed (0.16434324216586804)
+
+Topic #12: request loan interlibrary doe long pick illiad inter
+ request (2.74040594961064)
+ loan (2.4162870734616995)
+ interlibrary (1.8948246039417826)
+ doe (0.45602679372730015)
+ long (0.27457990642196334)
+ pick (0.2269890778798835)
+ illiad (0.21669988789049371)
+ inter (0.15605218218530367)
+
+Topic #13: renew checked book account borrowed item today loan
+ renew (4.644602566540806)
+ checked (0.4844289045438779)
+ book (0.45350577402128084)
+ account (0.19215429574199122)
+ borrowed (0.1726933470034118)
+ item (0.12494206844763585)
+ today (0.12063176453733947)
+ loan (0.09280678181052497)
+
+Topic #14: journal search website scholarly database specific review title
+ journal (3.455754950653056)
+ search (3.3632390364059335)
+ website (0.813347545276687)
+ scholarly (0.5037987826341037)
+ database (0.4342283736387895)
+ specific (0.3271867569281822)
+ review (0.19116614662524853)
+ title (0.17884724428435164)
+

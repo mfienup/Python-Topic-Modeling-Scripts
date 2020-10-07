@@ -1,0 +1,137 @@
+File: raw_PyMallet_LDA_wholeChatsFile_15topoics_8words.txt
+
+online find copy how class link read title
+1042.0	online
+975.0	find
+581.0	copy
+400.0	how
+396.0	class
+379.0	link
+312.0	read
+302.0	title
+today how open will email hour tomorrow close
+885.0	today
+870.0	how
+855.0	open
+812.0	will
+502.0	email
+486.0	hour
+406.0	tomorrow
+392.0	close
+article access journal link full database text find
+3502.0	article
+2400.0	access
+1019.0	journal
+874.0	link
+857.0	full
+816.0	database
+613.0	text
+493.0	find
+article find file attach what amp social science
+1903.0	article
+1100.0	find
+803.0	file
+745.0	attach
+473.0	what
+220.0	amp
+199.0	social
+183.0	science
+how print computer where floor desk will doe
+1019.0	how
+816.0	print
+612.0	computer
+368.0	where
+343.0	floor
+343.0	desk
+342.0	will
+301.0	doe
+room reserve check how desk study medium digital
+1249.0	room
+1091.0	reserve
+1081.0	check
+752.0	how
+571.0	desk
+462.0	study
+363.0	medium
+267.0	digital
+student email contact question will who librarian faculty
+1384.0	student
+1075.0	email
+766.0	contact
+560.0	question
+552.0	will
+544.0	who
+327.0	librarian
+281.0	faculty
+request loan book interlibrary how will check link
+1735.0	request
+1228.0	loan
+1176.0	book
+963.0	interlibrary
+673.0	how
+569.0	will
+470.0	check
+322.0	link
+research librarian find paper what source topic database
+2033.0	research
+1210.0	librarian
+1108.0	find
+743.0	paper
+690.0	what
+669.0	source
+548.0	topic
+542.0	database
+link click log will how work sign account
+1528.0	link
+1320.0	click
+1061.0	log
+896.0	will
+660.0	how
+645.0	work
+619.0	sign
+591.0	account
+book check how call number renew will floor
+4785.0	book
+1450.0	check
+1016.0	how
+813.0	call
+783.0	number
+731.0	renew
+671.0	will
+478.0	floor
+good what work chat when time question problem
+1000.0	good
+621.0	what
+615.0	work
+527.0	chat
+396.0	when
+396.0	time
+391.0	question
+351.0	problem
+search article find review how journal result database
+4090.0	search
+1722.0	article
+1493.0	find
+890.0	review
+864.0	how
+804.0	journal
+752.0	result
+710.0	database
+find collection special what iowa history university art
+679.0	find
+556.0	collection
+403.0	special
+341.0	what
+339.0	iowa
+321.0	history
+310.0	university
+289.0	art
+answer place check how shortly question what cite
+1090.0	answer
+972.0	place
+929.0	check
+780.0	how
+722.0	shortly
+520.0	question
+484.0	what
+435.0	cite

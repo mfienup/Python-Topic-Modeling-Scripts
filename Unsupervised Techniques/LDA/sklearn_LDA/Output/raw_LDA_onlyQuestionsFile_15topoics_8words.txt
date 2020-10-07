@@ -1,0 +1,152 @@
+File: raw_LDA_onlyQuestionsFile_15topoics_8words.txt
+
+Topic #0: doe request long lost rent photo info catalog
+ doe (322.73502058149637)
+ request (213.50023866663435)
+ long (119.06797131879314)
+ lost (76.20560037006994)
+ rent (72.02849013230336)
+ photo (45.6161855811713)
+ info (45.116487225758554)
+ catalog (43.64673970141745)
+
+Topic #1: finding trouble author report list thing academic word
+ finding (361.77524565457264)
+ trouble (163.26558373563503)
+ author (74.68704775141093)
+ report (66.6303509425538)
+ list (59.402696812689264)
+ thing (59.36491416742511)
+ academic (58.49659824808307)
+ word (55.25116712352698)
+
+Topic #2: research paper article source class working topic professor
+ research (650.861843871985)
+ paper (415.6077848554262)
+ article (385.48782741936157)
+ source (292.85350360938145)
+ class (218.86411630477232)
+ working (161.66309136756638)
+ topic (153.10748999771235)
+ professor (138.54864717372573)
+
+Topic #3: article search journal access link question scholarly locate
+ article (1278.943579581012)
+ search (445.94753871689284)
+ journal (390.87238484540666)
+ access (251.21358496528575)
+ link (229.63093635777787)
+ question (221.7201890059702)
+ scholarly (137.685543361842)
+ locate (101.86936815219143)
+
+Topic #4: laptop email desk account log password document send
+ laptop (144.82103704022492)
+ email (119.93619590956598)
+ desk (95.71723893231186)
+ account (89.50714472138748)
+ log (71.29906402494359)
+ password (69.66450819711083)
+ document (61.306260800334776)
+ send (60.09673068488831)
+
+Topic #5: school amp article librarian state data contact teacher
+ school (184.84050574884657)
+ amp (106.43972087416252)
+ article (81.72083339532202)
+ librarian (71.30970270294)
+ state (68.34821606372118)
+ data (62.81381952382924)
+ contact (62.23758983088098)
+ teacher (62.001173469208275)
+
+Topic #6: book online renew checked loan interlibrary childrens located
+ book (1810.6101098773038)
+ online (356.6880518175911)
+ renew (243.12448974770362)
+ checked (167.2803555366123)
+ loan (144.23888519391286)
+ interlibrary (95.28732591682427)
+ childrens (93.50774916099985)
+ located (85.77306170374749)
+
+Topic #7: database computer education currently lab ebsco problem issue
+ database (301.6449262225773)
+ computer (233.36112929623346)
+ education (113.468895300204)
+ currently (91.08287713408266)
+ lab (56.02343095755851)
+ ebsco (55.844950082202594)
+ problem (53.17388634589591)
+ issue (39.942493743876845)
+
+Topic #8: open work collection place video tomorrow youth camera
+ open (183.49577592840316)
+ work (160.60553013307145)
+ collection (124.27874658937154)
+ place (121.68031080327965)
+ video (98.82840070328406)
+ tomorrow (86.86784809203144)
+ youth (80.8044701744862)
+ camera (75.937515043795)
+
+Topic #9: student check access website online time campus read
+ student (524.8454029990661)
+ check (446.3464227028871)
+ access (430.14949109669004)
+ website (315.2348751870521)
+ online (223.12826187960144)
+ time (166.53620644997255)
+ campus (160.77431619178833)
+ read (116.04810230171358)
+
+Topic #10: room study reserve print floor color pm people
+ room (393.95135501053886)
+ study (312.35474351566324)
+ reserve (294.25805973829256)
+ print (201.3208523146851)
+ floor (149.64034768970288)
+ color (58.92495272283813)
+ pm (57.03730731798278)
+ people (56.825284907081674)
+
+Topic #11: copy guy project hey iowa wanted week citation
+ copy (184.8347563482041)
+ guy (150.2338880936809)
+ project (133.8826086402958)
+ hey (129.83187083837026)
+ iowa (114.89041372072971)
+ wanted (112.5968182338251)
+ week (105.36571855738154)
+ citation (84.56550116880882)
+
+Topic #12: chat resource text searching dissertation art primary option
+ chat (178.59952821743272)
+ resource (160.58450677915417)
+ text (116.44891701508077)
+ searching (89.60660103788913)
+ dissertation (75.88909025178344)
+ art (71.29780544468991)
+ primary (62.347065615876865)
+ option (45.143485597908544)
+
+Topic #13: social medium textbook figure archive digital called center
+ social (97.05890213063705)
+ medium (71.48810222805207)
+ textbook (68.36100056013701)
+ figure (66.04852969353544)
+ archive (62.926373914181575)
+ digital (60.5772417894486)
+ called (57.64008852144378)
+ center (55.70431606175114)
+
+Topic #14: today peer reviewed hour site section reading sociology
+ today (220.1389000727465)
+ peer (192.01680208133402)
+ reviewed (162.6990041256647)
+ hour (162.52269974599)
+ site (81.72270918800804)
+ section (79.4211177610318)
+ reading (71.23576185545602)
+ sociology (68.14734494543576)
+

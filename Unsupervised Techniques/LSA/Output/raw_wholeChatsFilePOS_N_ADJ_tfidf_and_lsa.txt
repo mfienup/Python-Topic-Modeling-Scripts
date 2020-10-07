@@ -1,0 +1,17 @@
+File: raw_wholeChatsFilePOS_N_ADJ_tfidf_and_lsa.txt
+
+(0, '0.368*"book" + 0.358*"article" + 0.206*"access" + 0.169*"search" + 0.168*"link" + 0.153*"journal" + 0.148*"database" + 0.145*"online" + 0.139*"loan" + 0.138*"today"')
+(1, '0.617*"book" + -0.446*"article" + 0.219*"room" + -0.171*"journal" + -0.171*"access" + -0.154*"database" + 0.150*"desk" + 0.142*"floor" + 0.124*"number" + -0.112*"search"')
+(2, '0.816*"room" + -0.368*"book" + 0.189*"study" + 0.137*"scheduler" + 0.101*"floor" + 0.100*"hour" + 0.095*"computer" + -0.094*"loan" + 0.081*"reservation" + 0.079*"open"')
+(3, '0.487*"loan" + 0.430*"interlibrary" + 0.235*"room" + -0.210*"research" + 0.198*"request" + -0.160*"librarian" + -0.158*"floor" + 0.156*"article" + 0.151*"access" + -0.141*"desk"')
+(4, '0.327*"book" + -0.312*"open" + 0.268*"room" + -0.262*"hour" + 0.228*"search" + -0.205*"loan" + -0.193*"today" + -0.190*"desk" + -0.181*"interlibrary" + 0.135*"bar"')
+(5, '0.575*"floor" + -0.261*"open" + -0.224*"hour" + 0.200*"desk" + -0.192*"research" + 0.166*"access" + 0.149*"printer" + -0.136*"today" + 0.134*"main" + -0.134*"librarian"')
+(6, '0.356*"access" + -0.295*"loan" + -0.273*"floor" + -0.271*"interlibrary" + -0.268*"research" + 0.238*"campus" + 0.205*"account" + -0.191*"librarian" + 0.189*"online" + 0.162*"database"')
+(7, '-0.559*"article" + 0.263*"database" + -0.233*"open" + -0.201*"book" + -0.182*"hour" + 0.181*"loan" + 0.169*"account" + -0.141*"file" + 0.139*"search" + 0.139*"interlibrary"')
+(8, '0.324*"search" + 0.246*"open" + -0.240*"research" + 0.218*"journal" + -0.211*"librarian" + 0.209*"hour" + -0.201*"access" + 0.189*"bar" + 0.181*"side" + 0.160*"left"')
+(9, '-0.426*"desk" + 0.299*"collection" + 0.279*"floor" + 0.275*"open" + -0.254*"circulation" + 0.250*"database" + -0.184*"article" + 0.172*"special" + -0.170*"tech" + 0.166*"youth"')
+(10, '0.566*"database" + 0.310*"desk" + 0.191*"circulation" + 0.182*"access" + -0.180*"account" + -0.163*"printer" + -0.158*"collection" + -0.144*"color" + -0.134*"print" + 0.131*"journal"')
+(11, '0.274*"printer" + -0.267*"collection" + -0.244*"journal" + -0.241*"number" + 0.238*"color" + -0.231*"medium" + -0.224*"hub" + 0.217*"floor" + -0.217*"digital" + -0.188*"camera"')
+(12, '0.407*"account" + -0.346*"computer" + -0.248*"laptop" + -0.209*"printer" + -0.193*"color" + 0.179*"circulation" + 0.176*"online" + -0.173*"place" + -0.169*"answer" + -0.162*"print"')
+(13, '-0.720*"journal" + -0.215*"online" + 0.193*"article" + 0.185*"database" + 0.147*"collection" + 0.139*"laptop" + -0.129*"color" + 0.125*"youth" + -0.122*"printer" + -0.122*"copy"')
+(14, '-0.321*"laptop" + 0.282*"medium" + 0.270*"hub" + 0.244*"digital" + -0.215*"collection" + 0.207*"camera" + -0.207*"student" + -0.185*"journal" + 0.182*"equipment" + 0.174*"online"')

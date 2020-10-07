@@ -1,0 +1,137 @@
+File: raw_PyMallet_LDA_wholeChatsFilePOS_N_ADJ_15topoics_8words.txt
+
+research dissertation thesis problem data class health student
+399.0	research
+251.0	dissertation
+205.0	thesis
+193.0	problem
+193.0	data
+186.0	class
+182.0	health
+159.0	student
+email librarian question contact good address staff person
+1159.0	email
+646.0	librarian
+531.0	question
+442.0	contact
+387.0	good
+305.0	address
+253.0	staff
+249.0	person
+room study people center group time learning report
+1249.0	room
+525.0	study
+268.0	people
+240.0	center
+227.0	group
+202.0	time
+193.0	learning
+184.0	report
+book number title today review youth online call
+5397.0	book
+524.0	number
+337.0	title
+327.0	today
+321.0	review
+321.0	youth
+302.0	online
+273.0	call
+access student campus school online iowa database link
+1233.0	access
+714.0	student
+583.0	campus
+515.0	school
+417.0	online
+329.0	iowa
+307.0	database
+299.0	link
+collection special print business history printer newspaper copy
+534.0	collection
+402.0	special
+343.0	print
+271.0	business
+247.0	history
+242.0	printer
+224.0	newspaper
+215.0	copy
+link author website citation source question reference title
+671.0	link
+502.0	author
+495.0	website
+401.0	citation
+326.0	source
+319.0	question
+308.0	reference
+237.0	title
+research article topic search librarian source database paper
+1651.0	research
+1363.0	article
+1055.0	topic
+864.0	search
+802.0	librarian
+733.0	source
+721.0	database
+593.0	paper
+floor desk number laptop main circulation building section
+1062.0	floor
+1060.0	desk
+462.0	number
+342.0	laptop
+322.0	main
+294.0	circulation
+219.0	building
+194.0	section
+article journal access full file google scholar text
+5769.0	article
+1501.0	journal
+1202.0	access
+856.0	full
+789.0	file
+598.0	google
+596.0	scholar
+494.0	text
+place good answer question problem night today chat
+732.0	place
+704.0	good
+573.0	answer
+448.0	question
+367.0	problem
+285.0	night
+280.0	today
+270.0	chat
+today hour open time tomorrow medium digital good
+803.0	today
+691.0	hour
+659.0	open
+462.0	time
+383.0	tomorrow
+361.0	medium
+289.0	digital
+274.0	good
+search link click database bar website option side
+1812.0	search
+1157.0	link
+766.0	click
+712.0	database
+593.0	bar
+553.0	website
+549.0	option
+536.0	side
+loan interlibrary request copy book online reserve link
+1200.0	loan
+950.0	interlibrary
+669.0	request
+569.0	copy
+540.0	book
+486.0	online
+366.0	reserve
+302.0	link
+student computer fall public music time art question
+802.0	student
+521.0	computer
+244.0	fall
+236.0	public
+226.0	music
+225.0	time
+205.0	art
+199.0	question

@@ -1,0 +1,17 @@
+File: raw_onlyQuestionsFile_tfidf_and_lsa.txt
+
+(0, '-0.558*"book" + -0.372*"how" + -0.353*"find" + -0.321*"article" + -0.236*"renew" + -0.236*"online" + -0.157*"where" + -0.135*"check" + -0.121*"access" + -0.098*"journal"')
+(1, '-0.604*"article" + 0.524*"book" + 0.309*"renew" + -0.289*"find" + -0.179*"access" + -0.139*"journal" + -0.121*"research" + -0.114*"peer" + 0.113*"check" + -0.109*"reviewed"')
+(2, '0.409*"renew" + -0.395*"how" + -0.364*"room" + -0.348*"reserve" + 0.325*"article" + 0.257*"online" + -0.219*"check" + -0.203*"study" + -0.136*"where" + 0.128*"book"')
+(3, '0.478*"where" + 0.443*"find" + -0.408*"how" + 0.272*"book" + -0.267*"access" + -0.266*"renew" + -0.233*"online" + -0.161*"room" + -0.147*"article" + -0.123*"reserve"')
+(4, '0.433*"check" + -0.398*"renew" + -0.338*"online" + -0.317*"room" + -0.295*"where" + 0.273*"book" + -0.264*"reserve" + -0.208*"find" + -0.205*"study" + 0.157*"article"')
+(5, '0.538*"how" + -0.412*"question" + -0.270*"what" + -0.250*"access" + 0.232*"find" + -0.218*"room" + -0.158*"reserve" + -0.142*"student" + -0.137*"research" + -0.126*"hour"')
+(6, '-0.594*"question" + 0.334*"reserve" + 0.308*"room" + 0.266*"article" + -0.221*"how" + 0.219*"book" + -0.203*"research" + 0.169*"study" + -0.144*"renew" + -0.139*"quick"')
+(7, '-0.546*"question" + 0.275*"where" + 0.261*"what" + -0.239*"book" + 0.238*"access" + -0.215*"article" + 0.200*"today" + 0.200*"check" + 0.168*"online" + -0.159*"room"')
+(8, '0.382*"what" + -0.363*"access" + 0.359*"today" + -0.261*"where" + -0.256*"online" + -0.238*"question" + 0.233*"hour" + -0.226*"check" + 0.202*"peer" + 0.199*"reviewed"')
+(9, '-0.645*"check" + 0.397*"access" + -0.249*"renew" + 0.225*"book" + -0.202*"article" + -0.166*"peer" + -0.159*"reviewed" + 0.147*"search" + 0.129*"research" + -0.124*"laptop"')
+(10, '0.434*"research" + 0.342*"paper" + -0.321*"today" + 0.256*"finding" + 0.253*"peer" + 0.236*"reviewed" + -0.215*"article" + -0.209*"find" + -0.181*"what" + -0.176*"hour"')
+(11, '0.431*"peer" + 0.405*"reviewed" + 0.333*"where" + -0.326*"research" + 0.302*"access" + -0.277*"find" + -0.235*"online" + 0.166*"journal" + -0.153*"paper" + 0.152*"search"')
+(12, '-0.374*"where" + 0.357*"online" + -0.344*"print" + 0.298*"find" + -0.254*"article" + -0.216*"renew" + -0.200*"finding" + 0.200*"peer" + -0.191*"research" + 0.189*"what"')
+(13, '-0.405*"online" + 0.315*"access" + 0.312*"today" + -0.297*"print" + -0.286*"request" + -0.271*"what" + -0.207*"loan" + 0.206*"renew" + 0.189*"find" + 0.187*"research"')
+(14, '0.502*"print" + 0.324*"computer" + -0.285*"request" + -0.266*"loan" + -0.246*"where" + -0.234*"search" + -0.220*"interlibrary" + 0.210*"find" + 0.210*"color" + 0.142*"student"')

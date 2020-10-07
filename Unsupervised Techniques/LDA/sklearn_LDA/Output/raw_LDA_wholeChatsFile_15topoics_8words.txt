@@ -1,0 +1,152 @@
+File: raw_LDA_wholeChatsFile_15topoics_8words.txt
+
+Topic #0: file attach cite citation link article author pdf
+ file (795.3870635799391)
+ attach (733.0651155476432)
+ cite (429.32222094151524)
+ citation (399.9040837774315)
+ link (395.5096900262156)
+ article (371.34537139689627)
+ author (330.66646819246887)
+ pdf (258.12715555875457)
+
+Topic #1: check book renew student item today time member
+ check (1107.857897146297)
+ book (1055.7651509011644)
+ renew (742.3877245523116)
+ student (475.74481344519876)
+ item (388.4288036654435)
+ today (294.85618056123513)
+ time (281.86941703845224)
+ member (276.81123705048753)
+
+Topic #2: room reserve computer laptop study check reservation desk
+ room (1236.274833428862)
+ reserve (1083.8827675664315)
+ computer (561.3683431462327)
+ laptop (392.98320293596043)
+ study (381.31386199205616)
+ check (182.75594179867807)
+ reservation (136.5485012143546)
+ desk (131.03290502727614)
+
+Topic #3: book request loan interlibrary check title online copy
+ book (4951.695123133874)
+ request (1663.228246295376)
+ loan (1243.0427436746756)
+ interlibrary (970.1343458095581)
+ check (703.7124059905638)
+ title (504.86045094122284)
+ online (503.765178579307)
+ copy (444.44232437935545)
+
+Topic #4: search article database review result type google bar
+ search (4231.3009668242)
+ article (2401.0771858261005)
+ database (1196.5426448080054)
+ review (925.0495002750936)
+ result (755.8143845950505)
+ type (686.6569713588563)
+ google (664.2546802160165)
+ bar (618.2118618702042)
+
+Topic #5: student class access iowa course university college fall
+ student (1072.7942028620714)
+ class (579.5845042951287)
+ access (316.77039503001515)
+ iowa (307.5932243194402)
+ course (304.96379576520656)
+ university (285.4204255871415)
+ college (268.093419534241)
+ fall (257.1630188043485)
+
+Topic #6: research librarian source paper topic good appointment specific
+ research (1804.3684176784295)
+ librarian (1082.0667641264283)
+ source (649.4069707290973)
+ paper (607.0034174100091)
+ topic (532.1650285296237)
+ good (462.4355229342997)
+ appointment (403.5655940393735)
+ specific (342.6065167831679)
+
+Topic #7: email contact chat good librarian work question address
+ email (1615.4070500031955)
+ contact (917.446939148897)
+ chat (650.6885261218819)
+ good (575.8982534413473)
+ librarian (511.38050172468843)
+ work (417.3151977385896)
+ question (403.1788326517006)
+ address (331.5975225646784)
+
+Topic #8: open hour today check pick hold desk close
+ open (809.9282469827494)
+ hour (653.9737959921304)
+ today (555.697405388488)
+ check (446.33087696746)
+ pick (397.65535599379353)
+ hold (388.75506549249747)
+ desk (339.20668157869636)
+ close (327.9298758134545)
+
+Topic #9: link access click log work campus sign database
+ link (1700.0157679516242)
+ access (1697.1088180069703)
+ click (1212.8302544461028)
+ log (1174.4870640249774)
+ work (896.0448288340833)
+ campus (839.5639307212595)
+ sign (632.5520547749779)
+ database (577.0922902271377)
+
+Topic #10: floor locate desk main art music circulation section
+ floor (1044.3304387845706)
+ locate (531.0290019068019)
+ desk (496.8190101989648)
+ main (303.8537458438892)
+ art (287.9189844756284)
+ music (221.22841457168806)
+ circulation (196.16629113876033)
+ section (181.4187904015049)
+
+Topic #11: medium digital check video hub desk rent camera
+ medium (368.2742115627664)
+ digital (298.2242508774723)
+ check (284.06168878239936)
+ video (261.4650634565751)
+ hub (206.34099543663316)
+ desk (181.0140681255606)
+ rent (159.90323850488122)
+ camera (155.06516701070132)
+
+Topic #12: article journal access title online link education amp
+ article (3953.3891340649466)
+ journal (1234.9542296516695)
+ access (920.6296528139848)
+ title (466.0410974013935)
+ online (338.3914126671046)
+ link (317.03259981479584)
+ education (264.1204035457715)
+ amp (242.51763132476734)
+
+Topic #13: print printer color card scan document charge job
+ print (797.7293537830002)
+ printer (255.96141059305705)
+ color (210.0086480620391)
+ card (202.915329804869)
+ scan (179.4774936623205)
+ document (179.164096677531)
+ charge (140.07365271934756)
+ job (134.96101649404503)
+
+Topic #14: answer check place collection shortly special question number
+ answer (1237.5631614234276)
+ check (1058.6264108732564)
+ place (1010.1187369623302)
+ collection (769.5519440110128)
+ shortly (716.9043755429166)
+ special (407.9951352192276)
+ question (405.1392098877611)
+ number (351.9923607269457)
+

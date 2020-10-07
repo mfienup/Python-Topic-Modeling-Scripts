@@ -1,0 +1,17 @@
+File: raw_wholeChatsFile_tfidf_and_lsa.txt
+
+(0, '0.274*"article" + 0.273*"book" + 0.195*"search" + 0.177*"find" + 0.168*"access" + 0.153*"link" + 0.151*"will" + 0.148*"check" + 0.134*"what" + 0.131*"request"')
+(1, '0.393*"renew" + 0.372*"book" + -0.357*"article" + 0.279*"room" + 0.230*"reserve" + -0.179*"search" + -0.165*"journal" + 0.151*"check" + 0.143*"desk" + -0.141*"database"')
+(2, '-0.641*"room" + 0.403*"renew" + -0.400*"reserve" + 0.303*"book" + -0.179*"study" + -0.120*"scheduler" + 0.099*"loan" + 0.084*"online" + 0.079*"account" + 0.078*"request"')
+(3, '-0.549*"renew" + 0.336*"request" + 0.300*"loan" + 0.282*"interlibrary" + -0.198*"search" + -0.162*"room" + -0.144*"review" + -0.138*"peer" + 0.111*"check" + -0.102*"account"')
+(4, '-0.273*"loan" + 0.265*"floor" + -0.257*"renew" + -0.236*"access" + -0.235*"interlibrary" + -0.218*"request" + -0.204*"log" + 0.190*"book" + -0.189*"room" + -0.155*"article"')
+(5, '0.362*"book" + -0.278*"open" + -0.216*"print" + 0.207*"request" + 0.197*"search" + 0.194*"loan" + -0.188*"renew" + 0.176*"interlibrary" + 0.167*"reserve" + -0.165*"hour"')
+(6, '-0.497*"print" + -0.309*"floor" + 0.262*"open" + -0.243*"printer" + -0.243*"color" + 0.196*"hour" + 0.143*"research" + 0.132*"pm" + -0.128*"locate" + 0.125*"librarian"')
+(7, '-0.375*"open" + -0.250*"hour" + -0.249*"print" + -0.222*"search" + -0.204*"review" + -0.182*"close" + -0.181*"peer" + 0.171*"floor" + -0.162*"pm" + 0.144*"access"')
+(8, '0.287*"print" + -0.283*"access" + 0.258*"renew" + 0.236*"research" + -0.210*"book" + 0.208*"loan" + 0.194*"librarian" + -0.187*"open" + 0.181*"interlibrary" + 0.170*"request"')
+(9, '-0.466*"floor" + -0.329*"article" + -0.180*"open" + 0.178*"book" + -0.175*"renew" + 0.165*"print" + -0.161*"locate" + 0.140*"database" + 0.132*"check" + -0.131*"loan"')
+(10, '-0.354*"article" + -0.232*"book" + -0.221*"attach" + -0.218*"file" + -0.209*"print" + 0.201*"database" + 0.198*"floor" + -0.190*"check" + 0.165*"click" + 0.154*"search"')
+(11, '-0.315*"check" + 0.295*"book" + -0.290*"desk" + -0.238*"laptop" + -0.199*"answer" + 0.195*"print" + -0.188*"shortly" + 0.181*"open" + -0.178*"place" + -0.166*"camera"')
+(12, '0.335*"answer" + -0.329*"desk" + 0.321*"shortly" + 0.303*"place" + 0.175*"room" + 0.148*"database" + -0.148*"pick" + -0.148*"circulation" + 0.140*"collection" + 0.134*"journal"')
+(13, '-0.502*"review" + -0.380*"peer" + 0.249*"search" + 0.196*"reserve" + -0.151*"log" + -0.146*"access" + -0.145*"campus" + -0.124*"database" + 0.120*"bar" + -0.118*"study"')
+(14, '-0.342*"database" + 0.312*"file" + 0.293*"attach" + 0.260*"collection" + -0.247*"access" + -0.189*"journal" + -0.181*"research" + -0.171*"reserve" + 0.157*"youth" + 0.157*"special"')

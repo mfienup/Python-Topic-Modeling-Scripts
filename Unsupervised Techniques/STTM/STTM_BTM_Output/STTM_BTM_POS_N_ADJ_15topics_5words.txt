@@ -1,0 +1,17 @@
+File: STTM_BTM_POS_N_ADJ_15topics_5words.txt
+
+article parent child good lol 
+room desk today computer student 
+article file link power policy 
+search article database link access 
+collection iowa special university email 
+article access link journal full 
+case company spanish store research 
+book number floor online search 
+article journal book management psychology 
+article music student topic data 
+px link em rgb ctrl 
+article research search topic database 
+book author chapter title citation 
+book loan interlibrary request student 
+article librarian research book source 

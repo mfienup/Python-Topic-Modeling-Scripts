@@ -1,0 +1,17 @@
+File: TFIDF_pLSA_wholeChatsFile_NMF-model_FrobeniusNorm_15topoics_8words.txt
+
+collection special youth contact email number archive department
+book title hold online check pick number reserve
+room reserve study scheduler reservation group rodscheduler space
+search bar click type journal onesearch result homepage
+request loan interlibrary link illiad submit inter instruction
+renew online account book today number circulation item
+access link log campus click work online sign
+article journal attach file title access google scholar
+research librarian paper appointment consultation source topic question
+open hour today close pm tomorrow midnight tonight
+check answer place shortly desk laptop student long
+print color printer computer printing mobile release black
+floor locate desk stack main fourth number section
+database az subject ebsco list business topic access
+review peer journal topic sociology study article result

@@ -1,0 +1,152 @@
+File: raw_LDA_wholeChatsFilePOS_N_ADJ_15topoics_8words.txt
+
+Topic #0: link click file pdf text option website online
+ link (1803.876333743342)
+ click (633.6772918867193)
+ file (631.7386015260233)
+ pdf (478.60807764588765)
+ text (391.3158720931229)
+ option (330.1602758655608)
+ website (289.0638281034121)
+ online (285.16151788199994)
+
+Topic #1: loan interlibrary request print student copy dissertation printer
+ loan (1182.7203814514376)
+ interlibrary (934.4279227607801)
+ request (782.4044395564613)
+ print (341.92103813685975)
+ student (330.484734572141)
+ copy (268.02461860442827)
+ dissertation (248.13562435191054)
+ printer (233.78989630939705)
+
+Topic #2: collection youth list health literature section childrens specific
+ collection (353.4308611729297)
+ youth (317.2275519402044)
+ list (218.7929056375213)
+ health (184.19765617096195)
+ literature (152.8614573307264)
+ section (128.4441439817379)
+ childrens (125.65833893596242)
+ specific (114.53221112967057)
+
+Topic #3: floor desk main circulation policy communication people problem
+ floor (992.8050861200786)
+ desk (935.506902968631)
+ main (348.28796710940986)
+ circulation (322.9255622297043)
+ policy (158.7641296777819)
+ communication (144.1290758773462)
+ people (143.79431985929006)
+ problem (130.82651916281006)
+
+Topic #4: article search journal database result google bar topic
+ article (6313.63122812274)
+ search (2585.315977951018)
+ journal (1789.4814063896567)
+ database (939.6569993650463)
+ result (709.92058779551)
+ google (642.3882180858508)
+ bar (619.1681510626482)
+ topic (586.7787945562887)
+
+Topic #5: free hall word map visitor appreciate ticket pa
+ free (352.6914246595038)
+ hall (114.15443023656711)
+ word (113.15533562036133)
+ map (110.2402315008631)
+ visitor (107.47837082982838)
+ appreciate (95.33593815844449)
+ ticket (90.38530485320896)
+ pa (75.56334476146993)
+
+Topic #6: book number online title copy today author place
+ book (5929.323770368229)
+ number (657.8350040683497)
+ online (635.8199260258205)
+ title (531.2674484056499)
+ copy (415.95049012955013)
+ today (356.33908421664034)
+ author (335.0000675958612)
+ place (315.1178709188063)
+
+Topic #7: email number special collection phone iowa university contact
+ email (559.4415895071018)
+ number (493.70017241667)
+ special (411.41221273929676)
+ collection (408.5751364433462)
+ phone (339.6640587662627)
+ iowa (327.3013920141453)
+ university (305.6045328717934)
+ contact (264.0289602725121)
+
+Topic #8: research librarian source paper good question topic citation
+ research (1670.94779554733)
+ librarian (1477.3021506493867)
+ source (782.4038922953465)
+ paper (769.0245299767612)
+ good (664.5452792374253)
+ question (535.422764951683)
+ topic (472.11935807778775)
+ citation (388.81357427985876)
+
+Topic #9: room computer laptop medium study desk digital tech
+ room (1228.9047728983953)
+ computer (495.5928808769063)
+ laptop (391.79700262899394)
+ medium (360.69604539406237)
+ study (314.4284862844745)
+ desk (289.8670294490108)
+ digital (283.8357892762538)
+ tech (259.82786160846115)
+
+Topic #10: class reserve course art professor child music chapter
+ class (403.9317790741758)
+ reserve (365.9832652611414)
+ course (359.25211331671477)
+ art (264.7892325350126)
+ professor (253.77865060726836)
+ child (236.85566005108683)
+ music (220.56532045652767)
+ chapter (185.57836646537038)
+
+Topic #11: hour student today open time week long tomorrow
+ hour (733.2655899779814)
+ student (720.3386708024535)
+ today (696.9007141044705)
+ open (633.2729240330275)
+ time (551.0001544928645)
+ week (425.6573820802339)
+ long (286.296341013031)
+ tomorrow (285.17491794097776)
+
+Topic #12: item chat periodical patron textbook ready px yep
+ item (424.7123831651905)
+ chat (233.80965168533555)
+ periodical (221.1451601198861)
+ patron (149.05543108363352)
+ textbook (100.07598339879506)
+ ready (96.47385610856874)
+ px (77.54463123399128)
+ yep (71.54778577902572)
+
+Topic #13: access campus database article student issue online link
+ access (2260.5310090250923)
+ campus (1083.6968155897941)
+ database (710.3514447212401)
+ article (666.5774390810022)
+ student (508.2904606468925)
+ issue (386.9433379820825)
+ online (337.3420305934181)
+ link (322.77466774652044)
+
+Topic #14: center learning quick student college building anne test
+ center (326.81465907436234)
+ learning (208.31498831829265)
+ quick (181.37843298173323)
+ student (168.4386578310353)
+ college (168.22362125370248)
+ building (165.6976359517097)
+ anne (137.52683118069015)
+ test (102.94078757435909)
+

@@ -1,0 +1,152 @@
+File: raw_TFIDF_pLSA_wholeChatsFile_NMF-model_Kullbac-Leibler_15topoics_8words.txt
+
+Topic #0: article link good search author doe class appreciate
+ article (2.2570474089897177)
+ link (1.0568915119120483)
+ good (0.9362220260207031)
+ search (0.7408851497601384)
+ author (0.6896465047346858)
+ doe (0.689102945413713)
+ class (0.6823170369318068)
+ appreciate (0.5351816005726849)
+
+Topic #1: book check number renew online today hold copy
+ book (6.708238382694536)
+ check (2.1398638495114772)
+ number (0.6723961147654649)
+ renew (0.6340081187894563)
+ online (0.5571008455156976)
+ today (0.5010181814250989)
+ hold (0.40262445737605074)
+ copy (0.3733782808729236)
+
+Topic #2: reserve room study medium digital hub camera people
+ reserve (1.6038260927622707)
+ room (1.50367420175421)
+ study (0.7858529716338031)
+ medium (0.610777157950933)
+ digital (0.6008090325927421)
+ hub (0.5071334610788462)
+ camera (0.4152542470159004)
+ people (0.4068133194482162)
+
+Topic #3: search bar click book homepage type onesearch result
+ search (2.408906481090575)
+ bar (1.5154433145209447)
+ click (0.8494999009153952)
+ book (0.8488943658483123)
+ homepage (0.8316497237674474)
+ type (0.6969573407840156)
+ onesearch (0.6891948212425958)
+ result (0.6502467003198503)
+
+Topic #4: link access click loan interlibrary account request log
+ link (1.3903562875551219)
+ access (1.3683546191211893)
+ click (1.3633235693365169)
+ loan (1.3567947234582602)
+ interlibrary (1.3194651677165639)
+ account (1.2885620367743416)
+ request (1.0893909221575218)
+ log (0.9978203958368006)
+
+Topic #5: good contact chat email campus today center problem
+ good (1.4955359077204675)
+ contact (1.013486940363546)
+ chat (1.0105599451503944)
+ email (0.8180160168921057)
+ campus (0.768217438446281)
+ today (0.6036545227130703)
+ center (0.5357640206752898)
+ problem (0.515237740475073)
+
+Topic #6: access print campus computer link log doe click
+ access (1.7403083209531673)
+ print (1.1735822078349274)
+ campus (1.0494002654826011)
+ computer (0.7467805498936295)
+ link (0.7401665538766551)
+ log (0.6949736632699196)
+ doe (0.6651964833069649)
+ click (0.6628245362622106)
+
+Topic #7: article access attach file journal title amp google
+ article (4.4457735868792)
+ access (1.3367024632655173)
+ attach (0.8596072324795405)
+ file (0.6991641470472477)
+ journal (0.5549518701261115)
+ title (0.4642051881643276)
+ amp (0.3959514317345386)
+ google (0.3908846616886304)
+
+Topic #8: librarian research contact email appointment question consultation paper
+ librarian (1.4219249511509784)
+ research (1.1400787587276027)
+ contact (1.0503622327362547)
+ email (1.0267456524701015)
+ appointment (0.9413934542381429)
+ question (0.7326806083523973)
+ consultation (0.6772094519743627)
+ paper (0.6371034889963335)
+
+Topic #9: open today hour close awesome pm time doe
+ open (2.2044573608279725)
+ today (2.168119925106708)
+ hour (1.7764122062670311)
+ close (1.3961676549541284)
+ awesome (0.794545011922982)
+ pm (0.7703264897347967)
+ time (0.6478655350554134)
+ doe (0.5513749987777037)
+
+Topic #10: check answer place shortly doe question long movie
+ check (6.320076540383464)
+ answer (3.636056093011291)
+ place (1.7724685513567215)
+ shortly (1.1244560431889368)
+ doe (1.0850503093135146)
+ question (0.5416669661792417)
+ long (0.28416939296842286)
+ movie (0.18490230167385568)
+
+Topic #11: floor collection locate number special main art area
+ floor (2.4245479386955564)
+ collection (1.6889433532017715)
+ locate (1.4578962861398368)
+ number (0.6654013270572463)
+ special (0.6083521261291577)
+ main (0.5651893624877269)
+ art (0.49965566103962106)
+ area (0.4854086630755532)
+
+Topic #12: desk circulation student computer laptop hold checkout long
+ desk (3.0908936467044046)
+ circulation (0.9974333143261814)
+ student (0.8652620834770549)
+ computer (0.6456459708099765)
+ laptop (0.6194442744188932)
+ hold (0.6037546896951008)
+ checkout (0.539575224153115)
+ long (0.5392580348102651)
+
+Topic #13: database access journal review az research peer paper
+ database (2.6089354724256273)
+ access (2.0581028990464705)
+ journal (1.0222191969324328)
+ review (0.8425161317400204)
+ az (0.6222103888742779)
+ research (0.5974626091860384)
+ peer (0.5873988033294905)
+ paper (0.4501200424190309)
+
+Topic #14: link cite work doe send download attach click
+ link (1.9709440549748474)
+ cite (0.6260425849820337)
+ work (0.613481663010866)
+ doe (0.5035413379994195)
+ send (0.4711045379562087)
+ download (0.45875709143488236)
+ attach (0.457269973238144)
+ click (0.4452516005286677)
+

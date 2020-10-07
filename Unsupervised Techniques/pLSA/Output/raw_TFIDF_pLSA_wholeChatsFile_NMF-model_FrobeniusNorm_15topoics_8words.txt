@@ -1,0 +1,152 @@
+File: raw_TFIDF_pLSA_wholeChatsFile_NMF-model_FrobeniusNorm_15topoics_8words.txt
+
+Topic #0: collection special youth contact email number archive department
+ collection (3.1092320013193055)
+ special (1.8067447381497892)
+ youth (1.536062257536082)
+ contact (0.6485476937408435)
+ email (0.5612746450241233)
+ number (0.5442321402692823)
+ archive (0.48828527451272796)
+ department (0.39996733085775105)
+
+Topic #1: book title hold online check pick number reserve
+ book (6.52265527489557)
+ title (0.5958673838256406)
+ hold (0.5810880220428144)
+ online (0.5570702376987569)
+ check (0.47375759013565927)
+ pick (0.45573002573624316)
+ number (0.40921694922046625)
+ reserve (0.35509655225764414)
+
+Topic #2: room reserve study scheduler reservation group rodscheduler space
+ room (4.143591755536669)
+ reserve (2.7194337478456196)
+ study (1.0755350597683373)
+ scheduler (0.7021262238200129)
+ reservation (0.35820230619490734)
+ group (0.2643732665241267)
+ rodscheduler (0.2490490203616677)
+ space (0.20024179648335888)
+
+Topic #3: search bar click type journal onesearch result homepage
+ search (4.719921707883498)
+ bar (1.469441313437775)
+ click (0.8614469154709923)
+ type (0.8547160073148375)
+ journal (0.8319742678931711)
+ onesearch (0.799388458095612)
+ result (0.7741366162050003)
+ homepage (0.7486692253990787)
+
+Topic #4: request loan interlibrary link illiad submit inter instruction
+ request (3.055864498888425)
+ loan (2.9992563048290326)
+ interlibrary (2.5772440532766643)
+ link (0.5408422021470322)
+ illiad (0.41103942590593107)
+ submit (0.36830321469136557)
+ inter (0.3325210241466301)
+ instruction (0.33199123772582645)
+
+Topic #5: renew online account book today number circulation item
+ renew (4.509163872678752)
+ online (0.835023035657969)
+ account (0.8299681331958888)
+ book (0.5045755558072241)
+ today (0.4963912108229364)
+ number (0.4164077882118683)
+ circulation (0.4003552125491951)
+ item (0.3870185194821329)
+
+Topic #6: access link log campus click work online sign
+ access (3.2151024535567427)
+ link (2.0437906267524504)
+ log (1.7917149959784453)
+ campus (1.6029732112950967)
+ click (1.2453809024871048)
+ work (1.2360869092173021)
+ online (0.8975964635748691)
+ sign (0.8759190491493066)
+
+Topic #7: article journal attach file title access google scholar
+ article (6.066769046269743)
+ journal (0.9561964811641412)
+ attach (0.8870053784271604)
+ file (0.8589799804296474)
+ title (0.5790950346228944)
+ access (0.5365636276130598)
+ google (0.49434831631113496)
+ scholar (0.4682152236610455)
+
+Topic #8: research librarian paper appointment consultation source topic question
+ research (2.861792971450094)
+ librarian (2.060777363930021)
+ paper (1.0782379485050628)
+ appointment (1.037952705078287)
+ consultation (0.9286155293698859)
+ source (0.8170270663128628)
+ topic (0.8136206301997354)
+ question (0.8083116778547698)
+
+Topic #9: open hour today close pm tomorrow midnight tonight
+ open (3.329528160614569)
+ hour (1.9928493404508627)
+ today (1.8219024559591488)
+ close (1.408761792430234)
+ pm (1.3045777333123438)
+ tomorrow (0.7156131108075025)
+ midnight (0.5811509800065746)
+ tonight (0.5780780901593059)
+
+Topic #10: check answer place shortly desk laptop student long
+ check (4.612925839342023)
+ answer (1.6118696906114411)
+ place (1.5606674010709378)
+ shortly (1.4534237980133322)
+ desk (0.96197059493177)
+ laptop (0.9009011637780188)
+ student (0.7168780570108332)
+ long (0.6214233665211423)
+
+Topic #11: print color printer computer printing mobile release black
+ print (3.3892031996930303)
+ color (1.460783223234335)
+ printer (1.2733048784264336)
+ computer (0.5683857440934367)
+ printing (0.4753542996076498)
+ mobile (0.4192834088265471)
+ release (0.41860116521033647)
+ black (0.3958364155191805)
+
+Topic #12: floor locate desk stack main fourth number section
+ floor (4.020917201262968)
+ locate (1.5390883896221579)
+ desk (1.066132104437881)
+ stack (0.8256374290262376)
+ main (0.8124558973873005)
+ fourth (0.6653027328729139)
+ number (0.5159284794234111)
+ section (0.4024578933643747)
+
+Topic #13: database az subject ebsco list business topic access
+ database (4.581055382462754)
+ az (0.7847522433396363)
+ subject (0.5052435401748888)
+ ebsco (0.42297321831667606)
+ list (0.34973449055236144)
+ business (0.27489629282272404)
+ topic (0.2556414208925372)
+ access (0.2395442446497689)
+
+Topic #14: review peer journal topic sociology study article result
+ review (3.314967774128868)
+ peer (2.6480588356801666)
+ journal (0.5707107374740379)
+ topic (0.5645491121593937)
+ sociology (0.480167135624502)
+ study (0.46789500569629555)
+ article (0.3441778112901425)
+ result (0.339060150515708)
+

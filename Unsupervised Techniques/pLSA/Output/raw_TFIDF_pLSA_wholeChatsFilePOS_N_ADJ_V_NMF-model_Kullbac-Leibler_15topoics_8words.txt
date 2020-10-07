@@ -1,0 +1,152 @@
+File: raw_TFIDF_pLSA_wholeChatsFilePOS_N_ADJ_V_NMF-model_Kullbac-Leibler_15topoics_8words.txt
+
+Topic #0: article link author good search access title google
+ article (3.661531811772234)
+ link (1.365297046687434)
+ author (0.8320677962445979)
+ good (0.7501133482877107)
+ search (0.7002853973191182)
+ access (0.5975162571658881)
+ title (0.5595127126836564)
+ google (0.5225122476061145)
+
+Topic #1: book check online number today renew hold catalog
+ book (7.200004348747804)
+ check (2.1067955961183533)
+ online (0.6382230680458962)
+ number (0.6149446418363964)
+ today (0.4945547621027432)
+ renew (0.42272637195640334)
+ hold (0.4216158067211569)
+ catalog (0.33973683038881297)
+
+Topic #2: reserve room study medium digital hub camera scheduler
+ reserve (1.6935815777253853)
+ room (1.633109630343701)
+ study (0.8803658054020232)
+ medium (0.6320433617849769)
+ digital (0.6232307985761524)
+ hub (0.5129021414400712)
+ camera (0.4510595490364878)
+ scheduler (0.38955515532189927)
+
+Topic #3: search bar book homepage click type result onesearch
+ search (2.4294735950538593)
+ bar (1.5149732925513808)
+ book (0.8591838627307105)
+ homepage (0.8538417500658015)
+ click (0.8054000717628873)
+ type (0.71684921679862)
+ result (0.6879163123321104)
+ onesearch (0.6866151536576692)
+
+Topic #4: good answer contact class question center check collection
+ good (1.1670502711550619)
+ answer (0.9332029408353152)
+ contact (0.8348009089017628)
+ class (0.7656592857883866)
+ question (0.7101240831243446)
+ center (0.5673954497352356)
+ check (0.49007793489814594)
+ collection (0.48396260515654915)
+
+Topic #5: campus account online student good log today access
+ campus (1.4134829172885315)
+ account (1.3039501583104602)
+ online (0.9462305829874833)
+ student (0.9458499121844236)
+ good (0.807627300037057)
+ log (0.7475168070271327)
+ today (0.7253171559956259)
+ access (0.6994349219600828)
+
+Topic #6: access click link log campus button catid website
+ access (1.9572227429277782)
+ click (1.8423574386925026)
+ link (1.698302742188675)
+ log (0.9334588550044439)
+ campus (0.6997960076900311)
+ button (0.5972012914666379)
+ catid (0.5700088971954737)
+ website (0.5350090653190459)
+
+Topic #7: article access attach file journal copy pdf title
+ article (3.8625270463830157)
+ access (1.316141945635487)
+ attach (0.964891198773346)
+ file (0.806888541626311)
+ journal (0.43546439673585624)
+ copy (0.41842777272575926)
+ pdf (0.4136951925722896)
+ title (0.4030537408320657)
+
+Topic #8: librarian research contact email appointment paper consultation question
+ librarian (1.8392593755663647)
+ research (1.409884576676592)
+ contact (1.2088625105988147)
+ email (1.0843358671132275)
+ appointment (0.91278622144468)
+ paper (0.7529911730298251)
+ consultation (0.681087181496516)
+ question (0.5567252170798438)
+
+Topic #9: open today loan interlibrary hour close request print
+ open (1.630345015880794)
+ today (1.4969817791736961)
+ loan (1.4435071590788593)
+ interlibrary (1.3696518750229123)
+ hour (1.1783638867532862)
+ close (1.0746863212478142)
+ request (1.021267999439939)
+ print (0.934400880918282)
+
+Topic #10: check answer place doe question laptop long checkout
+ check (6.93015967412379)
+ answer (3.4421517420218715)
+ place (1.6621853343570139)
+ doe (1.0956364616402534)
+ question (0.5126071079298516)
+ laptop (0.43279949526750056)
+ long (0.3477026954602831)
+ checkout (0.32338637173143003)
+
+Topic #11: floor locate collection number main area art fourth
+ floor (2.7751656436444807)
+ locate (1.7083345321094732)
+ collection (1.4214414133026823)
+ number (0.8209770097668317)
+ main (0.5655603510296383)
+ area (0.5557653381799946)
+ art (0.5144271074245083)
+ fourth (0.4225668109945494)
+
+Topic #12: database access journal review az research peer paper
+ database (2.750372566013619)
+ access (2.029663311917702)
+ journal (1.161928747770876)
+ review (0.7569715848991198)
+ az (0.6618425780627715)
+ research (0.5594198975390414)
+ peer (0.547451646102476)
+ paper (0.4785965258475752)
+
+Topic #13: desk circulation hold pick hour tech awesome hey
+ desk (3.914151174795239)
+ circulation (1.251099664983372)
+ hold (0.7169355290655168)
+ pick (0.6162956050870264)
+ hour (0.5801258496922052)
+ tech (0.5272151347526551)
+ awesome (0.4744850839354547)
+ hey (0.4516415122502255)
+
+Topic #14: link work cite send chat click attach doe
+ link (2.0881064682764285)
+ work (0.7233461745888766)
+ cite (0.5700745445016564)
+ send (0.5325357829519634)
+ chat (0.5260869433458527)
+ click (0.4756054916675942)
+ attach (0.4586880137642235)
+ doe (0.4385595769405223)
+

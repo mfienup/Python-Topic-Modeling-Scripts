@@ -1,0 +1,107 @@
+File: raw_TFIDF_pLSA_wholeChatsFilePOS_N_ADJ_NMF-model_FrobeniusNorm_15topoics_5words.txt
+
+Topic #0: article file title scholar google
+ article (6.687498935415471)
+ file (0.8185546895070865)
+ title (0.5169064399455627)
+ scholar (0.48852095433247583)
+ google (0.4694133835643426)
+
+Topic #1: book online number title today
+ book (7.05543086587027)
+ online (0.8967242363998821)
+ number (0.5816478137231106)
+ title (0.5567648144856624)
+ today (0.42635504970939625)
+
+Topic #2: room study scheduler reservation group
+ room (4.966322308203113)
+ study (1.1038545244290503)
+ scheduler (0.7484068398304345)
+ reservation (0.420993204194971)
+ group (0.29525445939205974)
+
+Topic #3: research librarian paper appointment consultation
+ research (3.432478637259455)
+ librarian (2.259055357812957)
+ paper (1.3011909157694153)
+ appointment (1.1680083140864794)
+ consultation (1.0718195727052238)
+
+Topic #4: loan interlibrary request link illiad
+ loan (3.6053381035890903)
+ interlibrary (3.0493695724820813)
+ request (1.4353889485263565)
+ link (0.42129137654064264)
+ illiad (0.410688104958312)
+
+Topic #5: access link campus online account
+ access (4.383304031578439)
+ link (2.2198032939613976)
+ campus (1.8075211957334767)
+ online (1.416546555754532)
+ account (0.969904243795431)
+
+Topic #6: floor stack fourth main section
+ floor (4.409032468870743)
+ stack (0.86484379790131)
+ fourth (0.7739098936736917)
+ main (0.7469773671041198)
+ section (0.43738722598984375)
+
+Topic #7: collection special youth number phone
+ collection (3.291606097702407)
+ special (1.8202804524427032)
+ youth (1.6601526752046243)
+ number (0.8873588853378745)
+ phone (0.419471536864145)
+
+Topic #8: search bar result homepage website
+ search (4.027508589309826)
+ bar (1.8014106088943382)
+ result (1.0352385405513376)
+ homepage (0.86563394920255)
+ website (0.8624512897212415)
+
+Topic #9: open today hour pm tomorrow
+ open (3.1229860649749774)
+ today (2.823723850450468)
+ hour (2.5115028091043836)
+ pm (1.1604784000064616)
+ tomorrow (0.7194920081090603)
+
+Topic #10: database az subject ebsco business
+ database (4.865045520229861)
+ az (0.7958291019450627)
+ subject (0.5268720773932476)
+ ebsco (0.3179565709036581)
+ business (0.2845075777042354)
+
+Topic #11: journal review peer academic title
+ journal (4.796804225760931)
+ review (0.3433659828129078)
+ peer (0.30847093927846847)
+ academic (0.2902743364634233)
+ title (0.24716442153127519)
+
+Topic #12: student laptop time faculty graduate
+ student (4.421742456997235)
+ laptop (0.8595197070895756)
+ time (0.6884612276257207)
+ faculty (0.567050012795261)
+ graduate (0.5658357426728768)
+
+Topic #13: desk circulation tech reserve camera
+ desk (3.9691682099952694)
+ circulation (1.8029457726484557)
+ tech (1.1644798059709307)
+ reserve (0.6846645456565288)
+ camera (0.6516719442931679)
+
+Topic #14: printer color computer print printing
+ printer (2.036467947303615)
+ color (1.8626127043068768)
+ computer (1.732046769394198)
+ print (1.3694056986834984)
+ printing (0.6190467545062416)
+

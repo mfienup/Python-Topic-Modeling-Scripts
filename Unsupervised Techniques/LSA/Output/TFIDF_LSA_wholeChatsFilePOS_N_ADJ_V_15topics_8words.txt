@@ -1,0 +1,17 @@
+File: TFIDF_LSA_wholeChatsFilePOS_N_ADJ_V_15topics_8words.txt
+
+article book search find access link check request 
+renew book article room reserve search journal check 
+room reserve renew book study scheduler loan online 
+renew request loan interlibrary search room review peer 
+loan renew floor access interlibrary book request log 
+book open print search request loan reserve room 
+print floor open color printer hour research pm 
+open print hour search floor review peer close 
+access renew print book research loan open librarian 
+floor article research open database librarian journal renew 
+floor article book print attach file database search 
+desk check laptop open book tech print camera 
+review peer search reserve access log campus database 
+journal answer desk file attach place log check 
+database collection file attach research special access youth 

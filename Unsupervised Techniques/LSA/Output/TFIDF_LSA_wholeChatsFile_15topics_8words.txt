@@ -1,0 +1,17 @@
+File: TFIDF_LSA_wholeChatsFile_15topics_8words.txt
+
+article book search find access link will check 
+renew book article room reserve search journal check 
+room renew reserve book study scheduler loan online 
+renew request loan interlibrary search room review peer 
+loan floor renew access interlibrary request log book 
+book open print request search loan renew interlibrary 
+print floor open printer color hour research pm 
+open hour print search review close peer floor 
+print access renew research book loan librarian open 
+floor article open book renew print locate database 
+article book attach file print database floor check 
+check book desk laptop answer print shortly open 
+answer desk shortly place room database pick circulation 
+review peer search reserve log access campus database 
+database file attach collection access journal research reserve 

@@ -1,0 +1,152 @@
+File: raw_TFIDF_pLSA_wholeChatsFilePOS_N_ADJ_V_NMF-model_FrobeniusNorm_15topoics_8words.txt
+
+Topic #0: request loan interlibrary link illiad submit instruction chapterarticle
+ request (3.1065887211622623)
+ loan (3.016395553293372)
+ interlibrary (2.5948734479991056)
+ link (0.5339300191425052)
+ illiad (0.42811685519304826)
+ submit (0.36812011609443235)
+ instruction (0.32823708170800353)
+ chapterarticle (0.3115510717535123)
+
+Topic #1: book title hold online number youth pick reserve
+ book (6.5575105195936)
+ title (0.6017519909114067)
+ hold (0.5697732425518707)
+ online (0.5501852236186313)
+ number (0.45596561803350444)
+ youth (0.41861609165941543)
+ pick (0.4139560302585724)
+ reserve (0.3360881265778306)
+
+Topic #2: room reserve study scheduler reservation group rodscheduler space
+ room (4.203056927529026)
+ reserve (2.674123642351867)
+ study (1.0954021314403612)
+ scheduler (0.7031874267755169)
+ reservation (0.3571114820461863)
+ group (0.2634492745675533)
+ rodscheduler (0.2474001626873863)
+ space (0.20034048008783104)
+
+Topic #3: search bar click type journal onesearch result homepage
+ search (4.746811388190668)
+ bar (1.4726335238261785)
+ click (0.8775237379724913)
+ type (0.8529313193901455)
+ journal (0.8392273069644421)
+ onesearch (0.790201996800852)
+ result (0.7794376985227979)
+ homepage (0.7461607881987594)
+
+Topic #4: open hour today pm close tomorrow midnight tonight
+ open (3.3813217987838957)
+ hour (2.038892613900486)
+ today (1.8205736765396088)
+ pm (1.3082321281457074)
+ close (1.2881227515536673)
+ tomorrow (0.7115244145824744)
+ midnight (0.5794895260541936)
+ tonight (0.5766917625502078)
+
+Topic #5: renew account online book today number item circulation
+ renew (4.51924880028608)
+ account (0.8421503940222044)
+ online (0.8164000617764406)
+ book (0.5217618187011447)
+ today (0.48169754403530834)
+ number (0.41511774015470876)
+ item (0.3791656510293602)
+ circulation (0.2771550195196931)
+
+Topic #6: access link log campus click work online sign
+ access (3.2941264469417098)
+ link (2.057053505503371)
+ log (1.7721593169015188)
+ campus (1.6272345698282975)
+ click (1.2480376086441671)
+ work (1.2311101048195026)
+ online (0.9235978059309077)
+ sign (0.8762120935590952)
+
+Topic #7: article journal attach file title access google scholar
+ article (6.113086930997827)
+ journal (0.9468445265781669)
+ attach (0.8894131461799453)
+ file (0.8602706263968186)
+ title (0.5807632934286512)
+ access (0.5124798154951217)
+ google (0.4976225901023475)
+ scholar (0.4715532480226415)
+
+Topic #8: research librarian paper appointment email consultation question contact
+ research (2.7653489887612244)
+ librarian (2.088700719802757)
+ paper (1.0652948635252084)
+ appointment (1.027144941022635)
+ email (0.9750713449364298)
+ consultation (0.9016307327109204)
+ question (0.8981160628692381)
+ contact (0.8750880745553975)
+
+Topic #9: print color printer computer printing mobile release black
+ print (3.4401070293175957)
+ color (1.458338091706286)
+ printer (1.2063037018756382)
+ computer (0.5230471531692071)
+ printing (0.4805380826482527)
+ mobile (0.42195107776006624)
+ release (0.41714424288044527)
+ black (0.3964673010525726)
+
+Topic #10: check answer place laptop student long week item
+ check (5.263781698006896)
+ answer (1.5571910377698892)
+ place (1.5512191277119023)
+ laptop (0.7786845653229617)
+ student (0.774292670236873)
+ long (0.598782799720201)
+ week (0.5089325783166524)
+ item (0.4806936250166732)
+
+Topic #11: floor locate stack collection fourth main number section
+ floor (4.063082674883353)
+ locate (1.4773990738131368)
+ stack (0.8512040354247332)
+ collection (0.7190696354470142)
+ fourth (0.6875196882671134)
+ main (0.6364131660535359)
+ number (0.5734207488033443)
+ section (0.48047864391949163)
+
+Topic #12: database az subject ebsco list business topic research
+ database (4.613094134343889)
+ az (0.7895398865558341)
+ subject (0.5180019371793824)
+ ebsco (0.4058537079429263)
+ list (0.3572954223754608)
+ business (0.2854487253601112)
+ topic (0.27825309000377163)
+ research (0.22410411837539443)
+
+Topic #13: desk circulation tech medium hub camera computer digital
+ desk (3.618215551994539)
+ circulation (1.4400490868598501)
+ tech (1.3045652416144462)
+ medium (0.7465535961664677)
+ hub (0.7050067767516108)
+ camera (0.6872932725907153)
+ computer (0.649103257615701)
+ digital (0.6234131612572964)
+
+Topic #14: review peer topic journal sociology study article result
+ review (3.361398886027903)
+ peer (2.6310025140993507)
+ topic (0.5777180584485462)
+ journal (0.5768718238373619)
+ sociology (0.48044897502069145)
+ study (0.46514116849217546)
+ article (0.338572926203705)
+ result (0.3343489679029902)
+

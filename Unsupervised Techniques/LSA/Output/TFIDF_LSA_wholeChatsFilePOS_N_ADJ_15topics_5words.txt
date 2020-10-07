@@ -1,0 +1,17 @@
+File: TFIDF_LSA_wholeChatsFilePOS_N_ADJ_15topics_5words.txt
+
+book article access search link 
+book article room journal access 
+room book study scheduler floor 
+loan interlibrary room research request 
+book open room hour search 
+floor open hour desk research 
+access loan floor interlibrary research 
+article database open book hour 
+search open research journal librarian 
+desk collection floor open circulation 
+database desk circulation access account 
+printer collection journal number color 
+account computer laptop printer color 
+journal online article database collection 
+laptop medium hub digital collection 

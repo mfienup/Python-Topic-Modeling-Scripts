@@ -1,0 +1,92 @@
+File: raw_PyMallet_LDA_wholeChatsFilePOS_N_ADJ_15topoics_5words.txt
+
+place answer question medium good
+776.0	place
+701.0	answer
+566.0	question
+364.0	medium
+351.0	good
+research librarian paper topic appointment
+1896.0	research
+1438.0	librarian
+764.0	paper
+576.0	topic
+401.0	appointment
+book loan number interlibrary online
+5938.0	book
+553.0	loan
+507.0	number
+412.0	interlibrary
+405.0	online
+article journal access file full
+5434.0	article
+1222.0	journal
+1216.0	access
+789.0	file
+775.0	full
+access link campus loan account
+1453.0	access
+1384.0	link
+749.0	campus
+647.0	loan
+576.0	account
+good problem night database website
+878.0	good
+470.0	problem
+328.0	night
+323.0	database
+289.0	website
+online copy author citation website
+562.0	online
+496.0	copy
+496.0	author
+400.0	citation
+342.0	website
+class student professor reserve course
+726.0	class
+456.0	student
+350.0	professor
+349.0	reserve
+345.0	course
+room hour today open time
+1248.0	room
+730.0	hour
+688.0	today
+659.0	open
+422.0	time
+floor desk computer main print
+1062.0	floor
+867.0	desk
+611.0	computer
+327.0	main
+254.0	print
+collection email number phone special
+778.0	collection
+755.0	email
+696.0	number
+407.0	phone
+402.0	special
+student education member dissertation faculty
+1075.0	student
+391.0	education
+260.0	member
+251.0	dissertation
+234.0	faculty
+iowa university public fall state
+329.0	iowa
+318.0	university
+285.0	public
+244.0	fall
+227.0	state
+article source link google data
+626.0	article
+412.0	source
+285.0	link
+203.0	google
+193.0	data
+search database article result bar
+2496.0	search
+992.0	database
+889.0	article
+697.0	result
+622.0	bar
